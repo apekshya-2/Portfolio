@@ -6,7 +6,7 @@ A sleek, responsive, and fully customizable animated portfolio website built usi
 
 🔗 apekshadhungana.com.np
 
-(Replace with your own live link if hosted elsewhere)
+
 
 🛠️ Tech Stack
 
@@ -14,7 +14,7 @@ A sleek, responsive, and fully customizable animated portfolio website built usi
 
 🎨 Tailwind CSS
 
-💾 Vercel (for deployment)
+
 
 📁 Features
 
