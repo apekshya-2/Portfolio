@@ -1,8 +1,7 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
-// GitHub Pages host को लागि
 export default defineConfig({
-  base: '/Portfolio/', // GitHub Pages मा project को path
+  base: '/', // Custom domain use गर्दा / राख्ने
   plugins: [react()],
-})
+});
