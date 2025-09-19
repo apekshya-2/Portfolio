@@ -1,9 +1,13 @@
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.jsx'
+import { createRoot } from 'react-dom/client';
+import './index.css';
+import GiftCard from './components/GiftCard';
+import App from './App.jsx';
 
 createRoot(document.getElementById('root')).render(
-  
-  <App />
-
-)
+  <React.StrictMode>
+    <>
+      <GiftCard />
+      <App />
+    </>
+  </React.StrictMode>
+);
