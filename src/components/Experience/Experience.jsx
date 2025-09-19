@@ -12,7 +12,7 @@ const Experience = () => {
         <h2 className="text-4xl font-bold text-white">EXPERIENCE</h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
         <p className="text-gray-400 mt-4 text-lg font-semibold">
-          A collection of my personal and academic projects, highlighting roles and skills in impactful applications.
+          Delivered impactful organizational projects, showcasing technical skills and collaborative problem-solving expertise.
         </p>
       </div>
 
